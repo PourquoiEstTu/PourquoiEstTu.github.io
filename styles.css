@@ -1,0 +1,537 @@
+html {
+	font-family: 'Roboto', sans-serif;
+	/*background-color:;*/
+	margin: 100px;
+	width: 85%;
+    height: 100%;
+    padding: 0px;
+    overflow-x: hidden;
+}
+
+h1 {
+	color: #4dff4d;
+	font-size: 80px;
+	text-align: center;
+	margin-top: -90px;
+	font-family: 'Lobster', cursive;
+}
+
+h2 {
+	color: #006600;
+}
+
+#skyline {
+	margin: -35px 0 0 -30px;
+}
+
+#Subheading {
+	text-align: center;
+	padding: 0 0 50px 0;
+	color: #66a3ff;
+	font-size: 40px;
+	font-family: 'Srisakdi', cursive;
+	margin: 5px 0 0 0;
+}
+
+ol {
+	margin: 0 0 115px -115px;
+	font-size: 11px;
+}
+
+#content {
+	padding: 0 0 20px 0;
+	margin: -185px 0 100px -100px;
+}
+
+#header-1968-and-2018, #header-social-and-economic-data, #header-identifying-possible-solutions,
+#header-References {
+	font-size: 14px;
+	padding: 5px 0 5px 0;
+	margin: -100px 0 0 -100px;
+}
+
+#cold-snap-p, #comox-glacier-p, #burnaby-lake-p, #vancouver-rain-clouds-p, #plant-and-fish-p,
+#okanagan-wildfire-p, #vancouver-drought-p, #farmland-p, #mosquito-and-tick, 
+#train-in-vancouver-p, #festivals, #u-of-bc-p, #glaciers-in-vancouver-p, #saanich-peninsula-p, 
+#bc-electricity-production-graph-p, #green-building-p, #ogc-logo-p {
+	color: #006600;
+}
+
+#Introduction, #Intro-paragraph {
+	margin: 0 0 0 500px;
+	padding: 10px 0 10px 0;
+}
+
+#background {
+	margin: -670px 0 500px 500px;
+}
+
+#background-paragraph {
+	margin: -510px 0 670px 500px;
+	padding: 20px 0 0 0;
+}
+
+#h1968-and-2018 {
+	margin: -650px 0 670px 500px;
+	font-size: 35px;
+}
+
+#comparison {
+	margin: -650px 0 670px 500px;
+}
+
+#temperatures-and-precipitation-graphs {
+	margin: -650px 0 520px 500px;
+}
+
+#temperatures {
+	margin: -500px 0 670px 500px;
+}
+
+#temperatures-graph-paragraph {
+	margin: -650px 0 670px 500px;
+}
+
+#temperatures-graph {
+	margin: -1000px 0 250px 450px;
+	padding: 5px 20px 5px 0;
+	border-style: solid;
+	border-color: black;
+}
+
+#temperature-analysis {
+	margin: -360px 0 0 0;
+
+}
+
+#temperature-analysis-paragraph {
+	padding: 0 0 280px 0;
+
+}
+
+#Introduction {
+	padding: 0 0 0 0;
+	border-bottom: solid;
+	border-color: black;
+}
+
+#background {
+	padding: 0 0 3px 0;
+	border-bottom: solid;
+	border-color: black;
+}
+
+#h1968-and-2018 {
+	padding: 0 0 3px 0;
+	border-bottom: solid;
+	border-color: black;
+}
+
+#precipitation-graph {
+	margin: -100px 0 0 449px;
+	padding: 5px 45px 0 0;
+	border-style: solid;
+	border-color: black;
+}
+
+#h-precipitation {
+	text-align: left;
+	margin: -200px 0 0 0;
+	padding: 0 0 15px 0;
+}
+
+#precipitation-graph-intro {
+	text-align: left;
+	margin: 0 0 -15px 0;
+}
+
+#precipitation-graph-intro2 {
+	text-align: left;
+}
+
+#precipitation-analysis {
+	margin: -230px 0 0 0;
+}
+
+#precipitation-p1 {
+	padding: 0 0 100px 0;
+}
+
+
+#snowfall-rainfall-graph {
+	margin: -105px 0 0 460px;
+	border-style: solid;
+	border-color: black;
+}
+
+#hsnowfall-and-rainfall {
+	margin: 40px 0 -20px 0;
+	padding: 0 0 20px 0;
+}
+
+#snowfall-and-rainfall-p1 {
+	margin: 0 0 15px 0;
+}
+
+#snowfall-rainfall-analysis {
+	margin: -250px 0 0 0;
+}
+#severe-weather-patterns-now {
+	margin: 0 0 -80px 0;
+	padding: 40px 0 0 0;
+	border-bottom: solid;
+	border-color: black;
+}
+
+#severe-weather-patterns-now-p {
+	padding: 80px 0 0 0;
+}
+
+#severe-weather-pattern-2018 {
+	margin: -500px 0 80px 770px;
+	padding: -100px -100px -100px -100px;
+}
+
+#severe-weather-pattern-2018-p {
+	text-align: right;
+	margin: -80px 100px 80px 0;
+}
+
+#severe-weather-patterns-1968 {
+	border-bottom: solid;
+	border-color: black;
+}
+
+#cold-snap {
+	margin: -500px 0 -20px 780px;
+	padding: -100px -100px -100px -100px;
+}
+
+#cold-snap-p {
+	text-align: right;
+	margin: 20px 60px 0 0;
+}
+
+#Amounts-of-Permanent-Ice-and-Frozen-Soil {
+	border-bottom: solid;
+	border-color: black;
+}
+
+#comox-glacier {
+	margin: -500px 0 -130px 771px;
+	padding: -100px -100px -100px -100px;
+}
+
+#comox-glacier-p {
+	text-align: right;
+	margin: 130px 60px 0 0;
+}
+
+#Extent-and-Duration-of-Ice-Cover-on-Lakes-in-Winter {
+	border-bottom: solid;
+	border-color: black;
+}
+
+#burnaby-lake {
+	margin: -500px 0 -70px 771px;
+	padding: -100px -100px -100px -100px;
+}
+
+#burnaby-lake-p {
+	text-align: right;
+	margin: 70px 125px 0 0;
+}
+
+#Projected-Impacts {
+	border-bottom: solid;
+	border-color: black;
+
+}
+
+#vancouver-rain-clouds {
+	margin: -240px 0 -70px 772px;
+	padding: 0 0 200px 0;
+}
+
+#vancouver-rain-clouds-p {
+	text-align: right;
+	margin: -135px 90px 0 0;
+	padding: 0 0 40px 0;
+}
+
+#Changes-in-River-Flow-Ice-Cover-Flooding-and-or-Rainfall {
+	padding: 0 0 2px 0;
+	border-bottom: solid;
+	border-color: black;
+}
+
+#river-flow-comparison {
+	text-align: center;
+}
+
+#river-flow-graph {
+	margin: 0 0 0 30px;
+}
+
+#river-flow-analysis {
+	padding: 10px 0 0 0;
+}
+
+#Changes-to-the-Local-Ecosystems-and-or-Species {
+	padding: 0 0 2px 0;
+	border-bottom: solid;
+	border-color: black;
+}
+
+#purple-loosestrife {
+	margin: -195px 0 0 810px;
+}
+
+#bull-trout {
+	margin: 0 0 0 810px;
+}
+
+#plant-and-fish-p {
+	text-align: center;
+	margin: 0 -807px 0 0;
+	padding: 0 0 50px 0;
+}
+
+#Changes-in-Severe-Weather-Patterns {
+	padding: 0 0 2px 0;
+	border-bottom: solid;
+	border-color: black;
+}
+
+#okanagan-wildfire {
+	margin: -200px 0 -65px 771px;
+	padding: 0 0 0 0;
+}
+
+#okanagan-wildfire-p {
+	text-align: center;
+	margin: 65px -770px 0 0;
+	padding: 0 0 60px 0;
+}
+
+#Unusual-Heat-Waves-and-Droughts {
+	padding: 0 0 2px 0;
+	border-bottom: solid;
+	border-color: black;
+}
+
+#vancouver-drought {
+	margin: -200px 0 -65px 771px;
+	padding: 0 0 0 0;
+}
+
+#vancouver-drought-p {
+	text-align: center;
+	margin: 65px -780px 0 0;
+	padding: 0 0 30px 0;
+}
+
+#Changes-in-Agricultural-Land {
+	padding: 0 0 2px 0;
+	border-bottom: solid;
+	border-color: black;
+}
+
+#farmland {
+	margin: -200px 0 -45px 771px;
+	padding: 0 0 0 0;
+}
+
+#farmland-p {
+	text-align: center;
+	margin: 45px -780px 0 0;
+	padding: 0 0 30px 0;	
+}
+
+#Changes-in-the-Occurrence-of-Insect-borne-Diseases{
+	padding: 0 0 2px 0;
+	border-bottom: solid;
+	border-color: black;
+}
+
+#mosquito, #tick {
+	margin: 0 0 0 150px;
+}
+
+#mosquito {
+	margin: 0 -155px 40px 200px;
+}
+
+#mosquito-and-tick {
+	margin: 0 0 0 470px;
+	padding: 0 0 40px 0;
+}
+
+#social-and-economic-data {
+	border-bottom: solid;
+	border-color: black;	
+	font-size: 35px;
+	padding:  0 0 -10px 0;
+}
+
+#hsocial-and-economic-data {
+	margin: -20px 0 0 0;
+}
+
+
+#Relative-Wealth-of-People-in-the-Region {
+	padding: 0 0 2px 0;
+	border-bottom: solid;
+	border-color: black;	
+}
+
+#train-in-vancouver {
+	margin: -200px 0 45px 771px;
+	padding: 0 0 0 0;	
+}
+
+#train-in-vancouver-p {
+	margin: -50px 0 50px 887px;
+}
+
+#Traditional-and-Cultural-Activities-in-the-Region {
+	padding: 0 0 2px 0;
+	border-bottom: solid;
+	border-color: black;
+}
+
+#celebration-of-lights, #cherry-blossom-festival {
+	margin: 0 0 0 150px;
+}
+
+/* Fix this */
+#festivals {
+	text-align: center;
+}
+
+#Access-to-Scientific-Information-and-Technologies-in-the-Region {
+	padding: 0 0 2px 0;
+	border-bottom: solid;
+	border-color: black;	
+}
+
+#u-of-bc {
+	margin: -200px 0 7px 771px;	
+}
+
+#u-of-bc-p {
+	text-align: center;
+	margin: 0 -375px 0 400px;
+	padding: 0 0 20px 0;
+}
+
+#Some-Projected-Impacts-Which-are-Already-Occurring {
+	padding: 0 0 2px 0;
+	border-bottom: solid;
+	border-color: black;	
+}
+
+#glaciers-in-vancouver {
+	margin: -219px 0 500px 831px;
+}
+
+#glaciers-in-vancouver-p {
+	text-align: center;
+	margin: -497px -377px 0 455px;
+	padding: 0 0 0 0;
+}
+
+#Summary {
+	padding: 0 0 2px 0;
+	border-bottom: solid;
+	border-color: black;	
+}
+
+#identifying-possible-solutions {
+	border-bottom: solid;
+	border-color: black;	
+	font-size: 35px;
+	padding:  0 0 3px 0;
+}
+
+#Major-Aspects-of-Life-Which-Would-be-Affected-by-Climate-Change {
+	border-bottom: solid;
+	border-color: black;
+	padding: 0 0 2px 0;
+}
+
+#saanich-peninsula {
+	margin: -409px 0 500px 771px;
+}
+
+#saanich-peninsula-p {
+	text-align: center;
+	margin: -497px -377px 0 390px;
+	padding: 0 0 130px 0;
+}
+
+#Ways-People-can-Reduce-Their-Emissions-of-Greenhouse-Gases {
+	border-bottom: solid;
+	border-color: black;
+	padding: 0 0 2px 0;
+}
+
+#bc-electricity-production-graph {
+	margin: -530px 0 500px 795px;
+}
+
+#bc-electricity-production-graph-p {
+	text-align: center;
+	margin: -497px -377px 0 420px;
+	padding: 0 0 150px 0;
+}
+
+#Steps-by-the-Local-Government-Businesses-and-Individuals-to-Adapt-to-Climate-Change {
+	border-bottom: solid;
+	border-color: black;
+	padding: 0 0 2px 0;	
+}
+
+#green-building {
+	margin: -485px 0 500px 771px;
+}
+
+#green-building-p {
+	text-align: center;
+	margin: -497px -357px 0 420px;
+	padding: 0 0 230px 0;	
+}
+
+#Ways-these-Entities-are-Adapting-to-the-Coming-Changes-in-Climate {
+	border-bottom: solid;
+	border-color: black;
+	padding: 0 0 2px 0;		
+}
+
+#ogc-logo {
+	margin: -505px 0 500px 771px;
+}
+
+#ogc-logo-p {
+	text-align: center;
+	margin: -497px -357px 0 420px;
+	padding: 0 0 210px 0;
+}
+
+#Possible-Solutions {
+	border-bottom: solid;
+	border-color: black;
+}
+
+#My-Preferred-Solution {
+	border-bottom: solid;
+	border-color: black;
+}
+
+#References {
+	border-bottom: solid;
+	border-color: black;
+}
+
+/* Fix purple loosestife and bull trout */
+/* Line breaks can be done with br element */
